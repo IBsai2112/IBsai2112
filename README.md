@@ -1,6 +1,21 @@
+![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
 <h1 align="left">👋 Yo, I'm Sai</h1>
 
 ###
+
+
+
+<h3 align="center">Full-Stack MERN Developer | Building scalable web applications with a strong focus on performance, usability, and clean code.</h3>
+
+
+
+- 🔭 I’m currently working on **ReachOut – A modern full-stack web application focused on improving communication and collaboration.**
+
+- 🌱 I’m currently learning **Advanced MERN Stack, Next.js, System Design, and modern frontend animations using GSAP.**
+
+- 💬 Ask me about **React.js, Vue.js, GSAP animations, Full-Stack Development, and building scalable web applications.**
+
+- 📫 How to reach me **sainjalkalnekar21@gmail.com**
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="50" alt="amazonwebservices logo"  />
@@ -50,19 +65,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="50" alt="xcode logo"  />
 </div>
 
-<h3 align="center">Full-Stack MERN Developer | Building scalable web applications with a strong focus on performance, usability, and clean code.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibsai2112&label=Profile%20views&color=0e75b6&style=flat" alt="ibsai2112" /> </p>
-
-- 🔭 I’m currently working on **ReachOut – A modern full-stack web application focused on improving communication and collaboration.**
-
-- 🌱 I’m currently learning **Advanced MERN Stack, Next.js, System Design, and modern frontend animations using GSAP.**
-
-- 💬 Ask me about **React.js, Vue.js, GSAP animations, Full-Stack Development, and building scalable web applications.**
-
-- 📫 How to reach me **sainjalkalnekar21@gmail.com**
-
-<div align="center">
+## 
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
@@ -70,10 +74,18 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzad/maurodesouzad/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzad/maurodesouzad/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzad/maurodesouzad/output/pacman-contribution-graph.svg">
-</picture>
+## 📝 IDE Used:
 
+![][vscode] ![][pycharm] ![][intelij]  <br><br>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibsai2112&label=Profile%20views&color=0e75b6&style=flat" alt="ibsai2112" /> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibsai2112&show_icons=true&locale=en&layout=compact" alt="ibsai2112" /></p>
+
+
+
+
+[vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[pycharm]: https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
+[intelij]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
+
