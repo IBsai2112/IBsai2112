@@ -1,5 +1,7 @@
 ![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
-<h1 align="left">👋 Yo, I'm Sai</h1>
+<p align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=5EF73D&width=435&lines=HI%2C+I+am+Sai!;Passionate+About+Programming.;Full+Stack+MERN+Developer." alt="Typing SVG" /></a>
+</p>
 
 ###
 
