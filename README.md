@@ -7,10 +7,11 @@
 
 
 
-<h3 align="center">Full-Stack MERN Developer | Building scalable web applications with a strong focus on performance, usability, and clean code.</h3>
+<h3 align="LEFT">Full-Stack MERN Developer | Building scalable web applications with a strong focus on performance, usability, and clean code.</h3>
 
 
-
+## <div>
+  
 - 🔭 I’m currently working on **ReachOut – A modern full-stack web application focused on improving communication and collaboration.**
 
 - 🌱 I’m currently learning **Advanced MERN Stack, Next.js, System Design, and modern frontend animations using GSAP.**
@@ -18,8 +19,11 @@
 - 💬 Ask me about **React.js, Vue.js, GSAP animations, Full-Stack Development, and building scalable web applications.**
 
 - 📫 How to reach me **sainjalkalnekar21@gmail.com**
+</div>
 
-<div align="center">
+
+## 
+<div align="LEFT">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="50" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angularjs logo"  />
